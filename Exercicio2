@@ -1,0 +1,28 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><help_text>&lt;&lt;computador cliente&gt;&gt;</help_text><element><id>UMLDeployment</id><coordinates><x>220</x><y>445</y><w>490</w><h>400</h></coordinates><panel_attributes>&lt;&lt;computador servidor&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>250</x><y>485</y><w>420</w><h>350</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+Suse Linux Enterprise Server 11 SP2 ou
+Red Hat Enterprise Linux 6.2 ou
+Windows Server 2008 R2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>260</x><y>755</y><w>230</w><h>70</h></coordinates><panel_attributes>&lt;&lt;DB&gt;&gt;
+ORACLE versão 11g R2 ou
+DB2 UDB versão 9.7 ou
+SQL Server versão 2008 R2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>230</x><y>5</y><w>380</w><h>310</h></coordinates><panel_attributes>&lt;&lt;computador cliente&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>240</x><y>75</y><w>350</w><h>230</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+MS - Windows XP, MS e
+Windows Vista Business e
+Seven Professional (32 e 64 bits) e
+SuSE GNU/Linux Enterprise SLES 12.1 (32 e 64 bits) e
+GNU/Linux openSUSE 11.1 (32 e 64 bits)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>250</x><y>195</y><w>190</w><h>100</h></coordinates><panel_attributes>&lt;&lt;web browser&gt;&gt;
+Mozilla Firefox versão 6.0 e
+Internet Explorer 6.0 e
+Internet Explorer 7.0 e
+Internet Explorer 8.0 e
+Internet Explorer 9.0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>260</x><y>615</y><w>90</w><h>30</h></coordinates><panel_attributes>&lt;&lt;CFTV&gt;&gt;
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>300</x><y>285</y><w>80</w><h>220</h></coordinates><panel_attributes>IP
+DNS
+TCP/UDP</panel_attributes><additional_attributes>10;200;10;10</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>390</x><y>615</y><w>260</w><h>130</h></coordinates><panel_attributes>&lt;&lt;Central telefonica&gt;&gt;
+Aastra MX ONE e
+NEC NEAX e
+Siemens Hipath 4000 e
+Alcatel OmniPCX Enterprise e
+Cisco Call Manager V9 e
+Leucotron Ision RDS e
+Intelbrás Impacta Rack 94/140/220
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
